@@ -7,6 +7,6 @@ namespace PIS1
     class NewClass
     {
         int differentMethod(){
-            }
+           }
     }
 }
