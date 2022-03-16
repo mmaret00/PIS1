@@ -7,7 +7,7 @@ namespace PIS1
         static void Main(string[] args)
         {
             Console.WriteLine("promjena");
-            //neki komeentar
+            //neki komentar
         }
     }
 }
